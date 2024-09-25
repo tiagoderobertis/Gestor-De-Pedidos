@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PruebaGPT\PruebaGPT\bin\Debug\PruebaGPT.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PruebaGPT\PruebaGPT\obj\Debug\PruebaGPT.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PruebaGPT\PruebaGPT\obj\Debug\PruebaGPT.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\GestionDePedidos\GestionDePedidos\bin\Debug\PruebaGPT.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\GestionDePedidos\GestionDePedidos\obj\Debug\PruebaGPT.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\GestionDePedidos\GestionDePedidos\obj\Debug\PruebaGPT.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\GestionDePedidos\GestionDePedidos\bin\Debug\PruebaGPT.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\GestionDePedidos\GestionDePedidos\bin\Debug\PruebaGPT.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\GestionDePedidos\GestionDePedidos\obj\Debug\GestionDePedidos.csprojResolveAssemblyReference.cache
